@@ -571,7 +571,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
 }
 a,
 a:hover {
-  color: #ffffff;
+  color: #364e7c;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -1054,32 +1054,26 @@ a {
     left: -1rem;
   }
 }
-.cid-sI7VUFFEiz {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-sI7VUFFEiz .mbr-section-subtitle DIV {
-  text-align: left;
-}
-.cid-sI7VUFFEiz .mbr-section-subtitle {
-  text-align: left;
-}
-.cid-sI7WcVZ1Wl {
+.cid-sI4PGWnrMD {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #8fc9ca;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 @media (max-width: 991px) {
-  .cid-sI7WcVZ1Wl .image-wrapper {
+  .cid-sI4PGWnrMD .image-wrapper {
     margin-bottom: 1rem;
   }
 }
-.cid-sI7WcVZ1Wl .row {
+.cid-sI4PGWnrMD .row {
   flex-direction: row-reverse;
 }
-.cid-sI7WcVZ1Wl img {
+.cid-sI4PGWnrMD img {
   width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sI4PGWnrMD .text-wrapper {
+    padding: 2rem;
+  }
 }
 .cid-sI2Psg4sUM {
   padding-top: 75px;
@@ -2037,6 +2031,33 @@ a {
   background-color: transparent;
   margin-bottom: 0;
 }
+.cid-sI4Ve7WLGQ {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sI4Ve7WLGQ .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-sI4Ve7WLGQ .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-sI4Ve7WLGQ .mbr-iconfont {
+  padding-left: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
+  color: #364e7c;
+}
+.cid-sI4Ve7WLGQ .panel-body,
+.cid-sI4Ve7WLGQ .card-header {
+  padding: 1rem 0;
+}
+.cid-sI4Ve7WLGQ .panel-title-edit {
+  color: #000000;
+}
 .cid-sI2Psg4sUM {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -2936,7 +2957,7 @@ a {
   }
 }
 .cid-sI4shki93J {
-  background-image: url("../../../assets/images/Stomatologia Dr. Stella Motoc Iasi.png");
+  background-image: url("../../../assets/images/header-mobile-friendly1-1980x1080.png");
 }
 .cid-sI4shki93J .mbr-section-title {
   color: #ffffff;
@@ -3042,7 +3063,7 @@ a {
 .cid-sI4ARqUE6D {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/testimonial-1980x1080.jpeg");
+  background-image: url("../../../assets/images/11.svg");
 }
 .cid-sI4ARqUE6D .carousel-item {
   justify-content: center;
@@ -3061,7 +3082,7 @@ a {
   height: 60px;
   width: 60px;
   padding: 10px;
-  color: #ffffff;
+  color: #155ce0;
 }
 .cid-sI4ARqUE6D .carousel-controls a .mbr-iconfont {
   font-weight: 800;
@@ -3243,27 +3264,6 @@ a {
 }
 .cid-sI2Psg4sUM .copyright > p {
   text-align: center;
-}
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -webkit-font-smoothing: antialiased;
-  -moz-font-smoothing: antialiased;
-  -o-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
-}
-
-body {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-weight: 100;
-  font-size: 12x;
-  line-height: 30px;
-  color: rgb(252, 252, 252);
-  background: transparent;
 }
 
 .container1 {
