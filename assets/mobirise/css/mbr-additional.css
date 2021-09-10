@@ -1,4 +1,4 @@
-.btn {
+c.btn {
   border-width: 2px;
 }
 body {
@@ -3284,6 +3284,7 @@ a {
 
 #contact {
   background: #364E7C;
+  opacity: 0.95;
   padding: 25px;
   margin: 150px 0;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
@@ -3294,6 +3295,7 @@ a {
   font-size: 30px;
   font-weight: 300;
   margin-bottom: 10px;
+  color: white;
 }
 
 #contact h4 {
@@ -3301,6 +3303,7 @@ a {
   display: block;
   font-size: 13px;
   font-weight: 400;
+  color: white;
 }
 
 fieldset {
@@ -3364,7 +3367,13 @@ fieldset {
 
 .copyright {
   text-align: center;
+  color: white;
+
 }
+#colorlib1 {
+  color: white;
+}
+
 
 #contact input:focus,
 #contact textarea:focus {
